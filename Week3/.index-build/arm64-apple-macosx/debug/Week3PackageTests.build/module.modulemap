@@ -1,0 +1,4 @@
+module Week3PackageTests {
+    header "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3PackageTests.build/Week3PackageTests-Swift.h"
+    requires objc
+}

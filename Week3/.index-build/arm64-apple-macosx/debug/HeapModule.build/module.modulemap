@@ -1,0 +1,4 @@
+module HeapModule {
+    header "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/HeapModule.build/HeapModule-Swift.h"
+    requires objc
+}

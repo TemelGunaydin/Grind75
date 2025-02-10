@@ -1,0 +1,4 @@
+module _RopeModule {
+    header "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/_RopeModule.build/_RopeModule-Swift.h"
+    requires objc
+}

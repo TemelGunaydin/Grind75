@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3.build/master.swiftdeps"
+  },
+  "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/Sources/Week3/Week3.swift": {
+    "dependencies": "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3.build/Week3.d",
+    "object": "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3.build/Week3.swift.o",
+    "swiftmodule": "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3.build/Week3~partial.swiftmodule",
+    "swift-dependencies": "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/Week3.build/Week3.swiftdeps"
+  }
+}
