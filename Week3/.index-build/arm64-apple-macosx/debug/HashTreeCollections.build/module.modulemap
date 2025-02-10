@@ -1,4 +1,0 @@
-module HashTreeCollections {
-    header "/Users/temelgunaydin/Desktop/FAANG/Swift/Grind75/Week3/.index-build/arm64-apple-macosx/debug/HashTreeCollections.build/HashTreeCollections-Swift.h"
-    requires objc
-}
