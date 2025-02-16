@@ -34,7 +34,7 @@ class Solution {
                 if let rightNode = node.right {
                     que.append(rightNode)
                 }
-            }
+            
 
             result.append(currentLevel)
         }
