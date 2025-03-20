@@ -1,0 +1,6 @@
+line_length: 200
+disabled_rules:
+  - identifier_name
+  - type_name
+  - variable_name
+  - function_parameter_name
